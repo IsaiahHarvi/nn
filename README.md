@@ -1,4 +1,4 @@
-# Neural Network from Scratch (scratch-nn)
+# Neural Network from Scratch 
 
 This project implements a neural network from scratch using only NumPy to classify the MNIST dataset. The network employs a feedforward architecture with ReLU activation functions in the hidden layers and a Softmax activation function in the output layer. Training is performed using backpropagation and cross-entropy loss.
 
